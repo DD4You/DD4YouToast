@@ -1,0 +1,2 @@
+include ':app', ':dd4youtoast'
+rootProject.name='DD4You Toast'
